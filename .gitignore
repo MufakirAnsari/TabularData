@@ -1,0 +1,12 @@
+﻿.venv/
+results/
+logs/
+Data/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+scratch_*
+*.txt
+!requirements.txt
+src_original/
+slurm_original/
